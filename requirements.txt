@@ -10,8 +10,4 @@ xlrd
 nbformat 
 nbclient 
 matplotlib 
-altair 
-itables 
-kaleido 
-vl-convert-python 
-dataframe-image 
+altair
