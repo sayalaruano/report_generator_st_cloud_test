@@ -5,7 +5,7 @@ st.logo("example_data/mona_logo.png")
 st.markdown('''<h1 style='text-align: center; color: #023858;'>MicW2Graph</h1>''', unsafe_allow_html=True)
 
 sections_pages = {}
-homepage = st.Page('home/homepage.py', title='Homepage')
+homepage = st.Page('Home/homepage.py', title='Homepage')
 sections_pages['Home'] = [homepage]
 
 Abundance_data = st.Page('Exploratory_Data_analysis/Exploratory_Data_analysis_Abundance_data.py', title='Abundance data')
