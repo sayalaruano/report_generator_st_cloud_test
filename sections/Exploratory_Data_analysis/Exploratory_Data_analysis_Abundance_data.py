@@ -1,10 +1,7 @@
 import json
-import plotly.io as pio
 import pandas as pd
-import dataframe_image as dfi
 import altair as alt
 import streamlit as st
-from itables import show
 
 st.markdown('''<h3 style='text-align: center; color: #023558;'>Abundance data</h3>''', unsafe_allow_html=True)
 st.markdown('''<p style='text-align: center; color: #000000;'></p>''', unsafe_allow_html=True)

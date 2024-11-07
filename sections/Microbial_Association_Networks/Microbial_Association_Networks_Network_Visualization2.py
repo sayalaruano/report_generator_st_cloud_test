@@ -1,4 +1,3 @@
-import json
 import streamlit as st
 
 st.markdown('''<h3 style='text-align: center; color: #023558;'>Network Visualization2</h3>''', unsafe_allow_html=True)
